@@ -1,9 +1,10 @@
 {
-    "Common Item": 49.89,
+    "Common Item": 49.889999,
     "Uncommon Item": 30,
     "Rare Item": 15,
     "Epic Item": 4,
     "Legendary Item": 1,
     "Mythic Item": 0.1,
-    "Supreme Item": 0.01
+    "Supreme Item": 0.01,
+    "Superduper item": 0.000001
 }
