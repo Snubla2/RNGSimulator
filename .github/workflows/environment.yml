@@ -1,4 +1,4 @@
-name: rng-simulator
+name: RNGSimulator
 channels:
   - defaults
 dependencies:
