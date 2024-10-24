@@ -1,0 +1,7 @@
+name: rng-simulator
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pip
