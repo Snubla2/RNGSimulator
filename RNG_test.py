@@ -1,6 +1,9 @@
 import json
 import random
 
+def test_example():
+    assert True
+
 def load_lucky_items():
     with open("Lucky.json", "r") as file:
         return json.load(file)
